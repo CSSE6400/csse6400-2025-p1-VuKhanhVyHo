@@ -1,0 +1,15 @@
+[tool.poetry]
+name = "csse6400-2025-p1-vukhanhvyho"
+version = "0.1.0"
+description = ""
+authors = ["Vy Vu Khanh Ho <116183364+VuKhanhVyHo@users.noreply.github.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.12"
+flask = "^3.1.0"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
